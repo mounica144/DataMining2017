@@ -1,3 +1,6 @@
+This Project is an implementation of LEM1 Algorithm which is a global rule induction method used in classification systems. To generate rules we also discretize the data set using all cut points strategy if there are any numerical attributes. 
+
+
 This Project is compatible for python 3.5
 
 Instructions to run:
